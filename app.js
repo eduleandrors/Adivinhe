@@ -1,5 +1,5 @@
 alert("Boas vindas ao jogo do número secreto");
-let dificuldade = 5;
+let dificuldade = 1000;
 let numeroSecreto = parseInt(Math.random() * dificuldade + 1);
 console.log(numeroSecreto)
 let chute;
