@@ -11,6 +11,7 @@ O projeto se baseia em um simples jogo de adivinhação, feito em JavaScript. O 
 
 <details>
   <summary>Aplicação</summary>
+  
   - **Gerar número secreto**: O programa gera um número entre 1 e um valor máximo especificado.
   
   - **Palpites do usuário**: O usuário insere palpites até adivinhar o número secreto.
@@ -26,6 +27,7 @@ O projeto se baseia em um simples jogo de adivinhação, feito em JavaScript. O 
 
 <details>
   <summary>Instruções</summary>
+  
   1. **Clique no link presente na página principal do repositório para acessar o jogo**.
   
   2. Uma mensagem de boas-vindas será exibida ao jogador.
