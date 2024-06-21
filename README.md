@@ -1,6 +1,3 @@
-# Advinha-o
-Projeto realizado durante o curso da Alura: Lógica de programação: mergulhe em programação com JavaScript
-
 # Jogo de Adivinhação
 
 Mini projeto desenvolvido no curso da Alura "Lógica de Programação: Mergulhe em Programação com JavaScript", disponibilizado pelo Instituto Caldeira no programa Geração Caldeira, no qual fui selecionado para a etapa online.
