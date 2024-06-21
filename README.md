@@ -25,7 +25,7 @@ O projeto se baseia em um simples jogo de adivinhação, feito em JavaScript. O 
 <details>
   <summary>Instruções</summary>
   
-  1. **Clique no link presente na página principal do repositório para acessar o jogo**.
+  1. <a href="https://eduleandrors.github.io/Advinhe/">**Clique aqui para acessar o jogo**.</a> 
   
   2. Uma mensagem de boas-vindas será exibida ao jogador.
  
