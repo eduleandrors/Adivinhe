@@ -4,10 +4,8 @@ Mini projeto desenvolvido no curso da Alura "Lógica de Programação: Mergulhe 
 
 O projeto se baseia em um simples jogo de adivinhação, feito em JavaScript. O objetivo é adivinhar o número secreto gerado aleatoriamente pelo programa, que fornece dicas ao usuário, informando se o palpite do mesmo é maior ou menor que o número a ser adivinhado.
 
-## Aplicação
-
 <details>
-  <summary>Aplicação</summary>
+  <summary>## Aplicação</summary>
   
   - **Gerar número secreto**: O programa gera um número entre 1 e um valor máximo especificado.
   
@@ -20,10 +18,8 @@ O projeto se baseia em um simples jogo de adivinhação, feito em JavaScript. O 
   - **Mensagem de vitória**: Exibe uma mensagem ao usuário quando ele acerta o número secreto, informando o número de tentativas utilizadas.
 </details>
 
-## Como jogar?
-
 <details>
-  <summary>Instruções</summary>
+  <summary>## Como jogar?</summary>
   
   1. <a href="https://eduleandrors.github.io/Advinhe/">**Clique aqui para acessar o jogo**.</a> 
   
